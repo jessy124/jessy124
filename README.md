@@ -1,8 +1,8 @@
 - 👋 Hi, I am Onah Jessica
-- 👀 I’m interested in Data Analysis, 
-- 🌱 I’m currently learning Data Analysis, I love to clean
-- 💞️ I’m looking to collaborate on with any organization that needs my service
-- 📫 you can reach me [here](onahnkem168@gmail.com)
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m open for Entry Level Data Analyst Role 
+- 💞️ I’m looking to collaborate on with companies, organizations or even individuals to solve their business problems by leveraging data
+- 📫 you can reach me onahnkem168@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
